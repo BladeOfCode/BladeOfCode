@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web %20Engineer;Both%20Frontend%20and%20Backend;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-
 #### &#10029; Frontend
   &nbsp;&nbsp;&nbsp;&nbsp;&#9989; React, React Native, IOS, Next.js, Gatsby.js, Electron, Vue, Angular <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Redux, RESTful, GraphQL API, Web3.js, Ethers.js <br/>
@@ -51,8 +47,4 @@
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BladeOfCode&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="BladeOfCode" height="192px"/>
-  <br/>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/BladeOfCode"><img alt="BladeOfCode's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BladeOfCode&custom_title=BladeOfCode's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
