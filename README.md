@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Engineer;Both%20Full Stack%20and%20Blockchain;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 #### &#10029; Frontend
   &nbsp;&nbsp;&nbsp;&nbsp;&#9989; React, React Native, IOS, Next.js, Gatsby.js, Electron, Vue, Angular <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Redux, RESTful, GraphQL API, Web3.js, Ethers.js <br/>
@@ -35,8 +38,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Github, Bitbucket, Gitlab, CI/CD <br/>
   
 ## 🔥 Streak Stats
+<div align="center">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=BladeOfCode&theme=blueberry&hide_border=true" />
+</div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BladeOfCode&theme=algolia" alt="BladeOfCode" /></p>
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
