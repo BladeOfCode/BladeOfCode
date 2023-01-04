@@ -8,7 +8,7 @@
 
 #### &#10029; Backend
   &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Node, Express, Nest.js, Google Apps script <br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Django, Flask <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Django, Flask, chatGPT integration<br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&#9989; AWS (S3, Lambda, Amplify, EC2, Codebuild, Codepipeline, RDS, Cogniter, Route53, CloudFront, DynamoDB, VPC) <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&#9989; KeystoneJS, Contentful, Strapi, Prismic <br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Laravel, WordPress, PHP <br/>
